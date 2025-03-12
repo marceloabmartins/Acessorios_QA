@@ -11,31 +11,31 @@ Com as devidas ressalvas feitas, podemos seguir! Este repositório agrupara vár
 
 Estes são basicamente atalhos criados no navegador, que quando clicados, exibem os itens como balões (atributo title), através da execução de código JavaScript.
 
-- [**ID**](https://github.com/marceloabmartins/Acessorios_QA/ID)<br>
+- [**ID**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/ID)<br>
 Quando clicado, exibe somente o Localizador ID dos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>id_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
 <u>id_inline.js:</u> para a criação do atalho em uma única linha.
 
-- [**Class**](https://github.com/marceloabmartins/Acessorios_QA/Class)<br>
+- [**Class**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Class)<br>
 Quando clicado, exibe somente o Localizador Class dos itens que possuirem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>class_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
 <u>class_inline.js:</u> para a criação do atalho em uma única linha.
 
-- [**Name**](https://github.com/marceloabmartins/Acessorios_QA/Name)<br>
+- [**Name**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Name)<br>
 Quando clicado, exibe somente o Localizador Name dos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>name_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
 <u>name_inline.js:</u> para a criação do atalho em uma única linha.
 
-- [**Xpath**](https://github.com/marceloabmartins/Acessorios_QA/Xpath)<br>
+- [**Xpath**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Xpath)<br>
 Quando clicado, exibe somente o Localizador Xpath dos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>xpath_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
 <u>xpath_inline.js:</u> para a criação do atalho em uma única linha.
 
-- [**Completo**](https://github.com/marceloabmartins/Acessorios_QA/Completo)<br>
+- [**Completo**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Completo)<br>
 Quando clicado, exibe todos os Localizadores anteriores nos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>completo_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
