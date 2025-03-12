@@ -54,7 +54,7 @@ Inclui o código para o mesmo de duas maneiras:<br>
 ---
 
 ##### Considerações
-Atualizado em 12/03/2025, este é apenas o inicio de uma ideia. Sei que melhorias podem ser feitas, assim como avanços com passar do tempo. Sugestões, críticas e quem sabe ideias, são bem vindas.
+Atualizado em 12/03/2025, este é apenas o inicio de uma ideia. Sei que melhorias podem ser feitas, assim como avanços com passar do tempo. Sugestões, críticas e quem sabe ideias, são bem vindas. Se este conteudo te ajudou, da uma Star e/ou Follow para me ajudar também :D
 
 ###### Referencias
 [Atributos HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Attributes)<br>
