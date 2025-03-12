@@ -15,31 +15,41 @@ Estes são basicamente atalhos criados no navegador, que quando clicados, exibem
 Quando clicado, exibe somente o Localizador ID dos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>id_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
-<u>id_inline.js:</u> para a criação do atalho em uma única linha.
+<u>id_inline.js:</u> para a criação do atalho em uma única linha.<br>
+<table border="0"><tr><td>
+<img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/id_1.png" width="430" height="298"></td><td><img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/id_2.png" width="430" height="298"></td></tr></table>
 
 - [**Class**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Class)<br>
 Quando clicado, exibe somente o Localizador Class dos itens que possuirem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>class_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
-<u>class_inline.js:</u> para a criação do atalho em uma única linha.
+<u>class_inline.js:</u> para a criação do atalho em uma única linha.<br>
+<table border="0"><tr><td>
+<img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/class_1.png" width="493" height="305"></td><td><img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/class_2.png" width="430" height="299"></td></tr></table>
 
 - [**Name**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Name)<br>
 Quando clicado, exibe somente o Localizador Name dos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>name_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
-<u>name_inline.js:</u> para a criação do atalho em uma única linha.
+<u>name_inline.js:</u> para a criação do atalho em uma única linha.<br>
+<table border="0"><tr><td>
+<img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/name_1.png" width="494" height="306"></td><td><img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/name_2.png" width="430" height="298"></td></tr></table>
 
 - [**Xpath**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Xpath)<br>
 Quando clicado, exibe somente o Localizador Xpath dos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>xpath_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
-<u>xpath_inline.js:</u> para a criação do atalho em uma única linha.
+<u>xpath_inline.js:</u> para a criação do atalho em uma única linha.<br>
+<table border="0"><tr><td>
+<img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/xpath_1.png" width="496" height="307"></td><td><img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/xpath_2.png" width="494" height="308"></td></tr></table>
 
 - [**Completo**](https://github.com/marceloabmartins/Acessorios_QA/tree/main/Completo)<br>
 Quando clicado, exibe todos os Localizadores anteriores nos itens que possuírem.
 Inclui o código para o mesmo de duas maneiras:<br>
 <u>completo_formatado.js:</u> com identação para melhor leitura e entendimento.<br>
-<u>completo_inline.js:</u> para a criação do atalho em uma única linha.
+<u>completo_inline.js:</u> para a criação do atalho em uma única linha.<br>
+<table border="0"><tr><td>
+<img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/completo_1.png" width="645" height="372"></td><td><img src="https://raw.githubusercontent.com/marceloabmartins/Acessorios_QA/refs/heads/main/images/completo_2.png" width="677" height="374"></td></tr></table>
 
 ---
 
